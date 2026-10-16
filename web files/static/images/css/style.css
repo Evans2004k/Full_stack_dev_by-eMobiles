@@ -1,0 +1,77 @@
+body{
+    background-color: #f0f0f0;
+    color: #333;
+    font-family: Arial, sans-serif;
+    align-items: center;
+    
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    color: #fff;
+    padding: 1rem; align-items: center;
+}
+nav li a{
+    text-decoration: none;
+    display: flex;
+    gap: 1rem;
+    color: #f0f0f0;
+    float: left;
+    
+}
+#tittle{
+    display: flex;
+    gap: 80px;
+}
+#cars{
+    align-items: center;
+    background-color: azure;
+   border-style:groove;
+   border-radius: 20px;
+   flex-wrap: wrap;
+}
+#fruits{
+     align-items: center;
+    background-color: rgb(6, 145, 145);
+    color: white;
+    border-radius: 20px;
+   border-style:groove;
+    flex-wrap: wrap;
+}
+
+#computers{
+    background-color: azure;
+   border-radius: 20px;
+    flex-wrap: wrap;
+}
+
+
+section{
+    gap: 0px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+/*--------kirinyaga universoity register form--------*/
+#register{
+    display: flex;
+    flex-direction: column;
+    gap: 0.1rem;
+    align-items: center;
+    background-color: #7c7373;
+    color: white;
+    border-radius: 20px;
+    margin: 6rem;
+    padding: 2rem;
+
+}
+
+
+
+
+
+
+
+
